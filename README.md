@@ -1,6 +1,6 @@
 ITLA - Introducción a la elaboración de Algoritmos
 
--- Práctica de Laboratorio ==
+-- Práctica de Laboratorio --
 
 Hecha con la herramienta PseInt y con el lenguaje C++
 
