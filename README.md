@@ -1,4 +1,4 @@
-ITLA - Introducción a la elaboración de Algoritmos
+ITLA | Introducción a la elaboración de Algoritmos
 
 -- Práctica de Laboratorio --
 
